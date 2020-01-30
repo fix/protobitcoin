@@ -1,0 +1,7 @@
+utxo.json
+node_modules
+*.sqlite
+*.log
+state.json
+.vscode
+.DS_Store

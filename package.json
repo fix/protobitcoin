@@ -1,0 +1,19 @@
+{
+  "name": "bitcoin-nodejs",
+  "version": "1.0.0",
+  "description": "Hacking around with bitcoin protocol and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.1.6",
+    "ip": "^1.1.5",
+    "leveldown": "^5.4.1",
+    "levelup": "^4.3.2",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.1"
+  }
+}
